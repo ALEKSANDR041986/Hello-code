@@ -1,0 +1,15 @@
+/Users/Aleksandr/Desktop/GEEK BRAINS/Examples/Example001_Helloconsole/bin/Debug/net6.0/Example001_Helloconsole
+/Users/Aleksandr/Desktop/GEEK BRAINS/Examples/Example001_Helloconsole/bin/Debug/net6.0/Example001_Helloconsole.deps.json
+/Users/Aleksandr/Desktop/GEEK BRAINS/Examples/Example001_Helloconsole/bin/Debug/net6.0/Example001_Helloconsole.runtimeconfig.json
+/Users/Aleksandr/Desktop/GEEK BRAINS/Examples/Example001_Helloconsole/bin/Debug/net6.0/Example001_Helloconsole.dll
+/Users/Aleksandr/Desktop/GEEK BRAINS/Examples/Example001_Helloconsole/bin/Debug/net6.0/Example001_Helloconsole.pdb
+/Users/Aleksandr/Desktop/GEEK BRAINS/Examples/Example001_Helloconsole/obj/Debug/net6.0/Example001_Helloconsole.csproj.AssemblyReference.cache
+/Users/Aleksandr/Desktop/GEEK BRAINS/Examples/Example001_Helloconsole/obj/Debug/net6.0/Example001_Helloconsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Aleksandr/Desktop/GEEK BRAINS/Examples/Example001_Helloconsole/obj/Debug/net6.0/Example001_Helloconsole.AssemblyInfoInputs.cache
+/Users/Aleksandr/Desktop/GEEK BRAINS/Examples/Example001_Helloconsole/obj/Debug/net6.0/Example001_Helloconsole.AssemblyInfo.cs
+/Users/Aleksandr/Desktop/GEEK BRAINS/Examples/Example001_Helloconsole/obj/Debug/net6.0/Example001_Helloconsole.csproj.CoreCompileInputs.cache
+/Users/Aleksandr/Desktop/GEEK BRAINS/Examples/Example001_Helloconsole/obj/Debug/net6.0/Example001_Helloconsole.dll
+/Users/Aleksandr/Desktop/GEEK BRAINS/Examples/Example001_Helloconsole/obj/Debug/net6.0/refint/Example001_Helloconsole.dll
+/Users/Aleksandr/Desktop/GEEK BRAINS/Examples/Example001_Helloconsole/obj/Debug/net6.0/Example001_Helloconsole.pdb
+/Users/Aleksandr/Desktop/GEEK BRAINS/Examples/Example001_Helloconsole/obj/Debug/net6.0/Example001_Helloconsole.genruntimeconfig.cache
+/Users/Aleksandr/Desktop/GEEK BRAINS/Examples/Example001_Helloconsole/obj/Debug/net6.0/ref/Example001_Helloconsole.dll
